@@ -61,3 +61,11 @@ scripts/ – Bash scripts
 configs/ – Configuration files
 
 screenshots/ – Project screenshots
+
+## System Information
+
+- macOS Version: Sequoia 15.1.1
+- Processor: Apple M2
+- Memory: 8 GB
+- Available Storage: 221.87 GB
+- Installation Type: Dual Boot
