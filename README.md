@@ -103,3 +103,10 @@ Result: Verification completed successfully.
 
 - Verified network connectivity after the Fedora installation.
 - Successfully connected to the Internet.
+
+---
+
+## SSH Configuration
+
+- Verified the OpenSSH service.
+- Confirmed that the SSH service is running.
