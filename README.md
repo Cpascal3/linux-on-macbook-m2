@@ -1,0 +1,119 @@
+# linux-on-macbook-m2
+Deploying Fedora Asahi Remix on an Apple MacBook Pro M2 with documentation, automation, and security hardening.
+# Linux on Apple Silicon (M2)
+
+## Project Overview
+
+This project documents the deployment of Fedora Asahi Remix on an Apple MacBook Pro M2.
+
+The objective is to demonstrate Linux system administration, security hardening, automation, and documentation skills through a real-world deployment.
+
+---
+
+## Objectives
+
+- Install Fedora Asahi Remix
+- Configure networking
+- Secure SSH
+- Configure the firewall
+- Install development tools
+- Create Bash automation scripts
+- Document every step of the deployment
+
+---
+
+## Hardware
+
+- Apple MacBook Pro M2
+
+---
+
+## Operating System
+
+- Fedora Asahi Remix
+
+---
+
+## Technologies
+
+- Linux
+- Bash
+- Git
+- GitHub
+- SSH
+- Firewall
+- Docker (planned)
+
+---
+
+## Project Status
+
+🟡 Planning
+
+---
+
+## Repository Structure
+
+docs/ – Documentation
+
+scripts/ – Bash scripts
+
+configs/ – Configuration files
+
+screenshots/ – Project screenshots
+
+## System Information
+
+- Device: MacBook Air 15-inch (2023)
+- Processor: Apple M2
+- Memory: 8 GB
+- macOS Version: Sequoia 15.1.1
+- Available Storage: 221.87 GB
+- Installation Type: Dual Boot
+
+---
+
+## Installation Status
+
+- Fedora Asahi Remix 44 with KDE Plasma installed successfully.
+- Installation completed on Apple MacBook Air 15-inch (2023).
+- Processor: Apple M2
+- Configuration: Dual Boot (macOS + Fedora)
+- Installation completed successfully and booted into the Fedora desktop.
+- Successfully installed Fedora Asahi Remix 44 with KDE Plasma.
+- Successfully configured dual boot with macOS Sequoia 15.1.1.
+- Successfully booted into the Fedora desktop.
+- Verified that the operating system is functioning correctly.
+- Updated the operating system to the latest available packages.
+
+---
+
+## Installation Verification
+
+Verified the Fedora installation by confirming:
+- Fedora release
+- Linux kernel version
+- Hostname and operating system information
+
+Result: Verification completed successfully.
+
+---
+
+## Network Verification
+
+- Verified network connectivity after the Fedora installation.
+- Successfully connected to the Internet.
+
+---
+
+## SSH Configuration
+
+- Verified the OpenSSH service.
+- Confirmed that the SSH service is running.
+
+---
+
+## Firewall Configuration
+
+- Enabled the firewalld service.
+- Verified that the firewall is running.
