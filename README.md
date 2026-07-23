@@ -96,3 +96,10 @@ Verified the Fedora installation by confirming:
 - Hostname and operating system information
 
 Result: Verification completed successfully.
+
+---
+
+## Network Verification
+
+- Verified network connectivity after the Fedora installation.
+- Successfully connected to the Internet.
