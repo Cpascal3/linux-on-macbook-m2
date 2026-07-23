@@ -85,3 +85,14 @@ screenshots/ – Project screenshots
 - Successfully booted into the Fedora desktop.
 - Verified that the operating system is functioning correctly.
 - Updated the operating system to the latest available packages.
+
+---
+
+## Installation Verification
+
+Verified the Fedora installation by confirming:
+- Fedora release
+- Linux kernel version
+- Hostname and operating system information
+
+Result: Verification completed successfully.
