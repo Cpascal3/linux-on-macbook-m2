@@ -64,8 +64,12 @@ screenshots/ – Project screenshots
 
 ## System Information
 
-- macOS Version: Sequoia 15.1.1
+- Device: MacBook Air 15-inch (2023)
 - Processor: Apple M2
 - Memory: 8 GB
+- macOS Version: Sequoia 15.1.1
 - Available Storage: 221.87 GB
 - Installation Type: Dual Boot
+
+---
+
