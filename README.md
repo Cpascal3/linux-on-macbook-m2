@@ -73,3 +73,10 @@ screenshots/ – Project screenshots
 
 ---
 
+## Installation Status
+
+- Fedora Asahi Remix 44 with KDE Plasma installed successfully.
+- Installation completed on Apple MacBook Air 15-inch (2023).
+- Processor: Apple M2
+- Configuration: Dual Boot (macOS + Fedora)
+- Installation completed successfully and booted into the Fedora desktop.
