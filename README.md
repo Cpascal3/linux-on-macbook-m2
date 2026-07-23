@@ -110,3 +110,10 @@ Result: Verification completed successfully.
 
 - Verified the OpenSSH service.
 - Confirmed that the SSH service is running.
+
+---
+
+## Firewall Configuration
+
+- Enabled the firewalld service.
+- Verified that the firewall is running.
